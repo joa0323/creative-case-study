@@ -1,5 +1,3 @@
-<img width="561" height="822" alt="11" src="https://github.com/user-attachments/assets/3a1ea742-90ca-41b9-aff8-a49dc99b339d" />
-<img width="561" height="822" alt="11" src="https://github.com/user-attachments/assets/9fea2de7-f6cc-4927-81a6-8f925cd2096c" />
 # Creative Case Study – From Idea to Final Project
 
 ## About this project
@@ -12,7 +10,6 @@ While working on it, the idea naturally grew into something much bigger.
 Instead of creating one object, I ended up building a full themed scene with characters, decorations and small details.
 
 ---
-
 ## How I worked
 
 * I started with one simple idea
@@ -57,5 +54,7 @@ This is similar to how I approach testing:
 ## Final result
 
 Photos below.
-
-
+<img width="561" height="822" alt="11" src="https://github.com/user-attachments/assets/3a0fee9f-8d8b-4938-a20b-a40d4d384f8b" />
+<img width="3468" height="4624" alt="1000039315" src="https://github.com/user-attachments/assets/a7349ae0-7d48-4c51-9e91-b5615a0b98a4" />
+<img width="4624" height="3468" alt="1000039318" src="https://github.com/user-attachments/assets/6c322bb5-804c-49c9-8688-9f6f79ed8b5c" />
+<img width="3468" height="4624" alt="1000039330" src="https://github.com/user-attachments/assets/d6c7250e-5324-4f89-9c5c-84fad4833227" />
