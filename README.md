@@ -7,7 +7,7 @@ This started as a simple idea:
 
 While working on it, the idea naturally grew into something much bigger.
 
-Instead of creating one object, I ended up building a full themed scene with characters, decorations and small details.
+Instead of creating one object, I ended up creating a full themed scene with characters, decorations and small details.
 
 ---
 ## How I worked
