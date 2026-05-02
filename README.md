@@ -1,3 +1,5 @@
+<img width="561" height="822" alt="11" src="https://github.com/user-attachments/assets/3a1ea742-90ca-41b9-aff8-a49dc99b339d" />
+<img width="561" height="822" alt="11" src="https://github.com/user-attachments/assets/9fea2de7-f6cc-4927-81a6-8f925cd2096c" />
 # Creative Case Study – From Idea to Final Project
 
 ## About this project
